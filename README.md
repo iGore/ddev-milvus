@@ -24,6 +24,7 @@ After installation, make sure to commit the `.ddev` directory to version control
 | ------- | ----------- |
 | `ddev describe` | View service status and used ports for Milvus |
 | `ddev logs -s milvus` | Check Milvus logs |
+| `ddev launch milvus-attu` | Open the Milvus Attu interface in your browser. (For older Milvus versions, try `ddev launch -m milvus`) |
 
 ## Advanced Customization
 
